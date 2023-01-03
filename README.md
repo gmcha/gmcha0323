@@ -38,4 +38,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gmcha0323)](https://git.io/streak-stats)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmcha0323&layout=compact"><br><br> -->
-<img src="https://github-readme-stats-five-black-vercel.app/api?username=gmcha0323&show_icons=true">
+<!-- <img src="https://github-readme-stats-five-black-vercel.app/api?username=gmcha0323&show_icons=true"> -->
