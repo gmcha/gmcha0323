@@ -33,6 +33,9 @@ You can click the Preview link to take a look at your changes.
 	- 2021.03 ~ 2021.12 : Student Council (경희대 컴퓨터공학과 관리부원)
 	- 2022.03 ~ 2022.12 : Student Council (경희대 컴퓨터공학부 관리부장)
 
+- 📂 Others
+	- <a href="https://velog.io/@gamin0323">TechBlog</a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmcha0323&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gmcha0323)](https://git.io/streak-stats)
