@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 - 📂 Others
 	- <a href="https://velog.io/@gamin0323">TechBlog</a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmcha0323&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gmcha0323)](https://git.io/streak-stats)
-
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmcha0323&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=gmcha0323)](https://git.io/streak-stats)
+ -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmcha0323&layout=compact"><br><br> -->
 <!-- <img src="https://github-readme-stats-five-black-vercel.app/api?username=gmcha0323&show_icons=true"> -->
