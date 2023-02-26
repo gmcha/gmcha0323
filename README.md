@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # 차가민 Ga Min Cha
 
-- 👋 Hi! My name is Ga Min Cha. <br> I'm a sophomore, majoring Computer Engineering at Kyunghee Univ.
+- 👋 Hi! My name is Ga Min Cha. <br> I'm a junior, majoring Computer Engineering at Kyunghee Univ.
 
 - 👀 I've used at least once:
 <div align=center>
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 </div>
 	
-- 🌱 I’m currently learning the frontend web development.
+- 🌱 I’m currently learning the web development.
 
 - 💞️ My experiences are ... 
 	- 2021.03 ~ 2021.12 : Student Council (경희대 컴퓨터공학과 관리부원)
