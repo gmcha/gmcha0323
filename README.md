@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ My experiences are ... 
 	- 2021.03 ~ 2021.12 : Student Council (경희대 컴퓨터공학과 관리부원)
 	- 2022.03 ~ 2022.12 : Student Council (경희대 컴퓨터공학부 관리부장)
+ 	- 2023.05 ~ : Student Comittee (경희대 국제C 후마니타스칼리지 대학생위원회 부위원장)
 
 - 📂 Others
 	- <a href="https://velog.io/@gamin0323">TechBlog</a>
